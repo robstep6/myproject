@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Hello world! Hi there"
+echo "Hi men"
 
 
 
